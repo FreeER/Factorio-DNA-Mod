@@ -1,0 +1,8 @@
+{
+  "name": "dna",
+  "version": "0.0.1",
+  "title": "DNA",
+  "author": "FreeER",
+  "description": "Adds dna collection",
+  "dependencies": ["base >= 0.7.4"]
+}
