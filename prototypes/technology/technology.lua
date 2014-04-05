@@ -3,7 +3,7 @@ data:extend({
     type = "technology",
     name = "dna",
     icon = "__dna__/graphics/technology/dna.png",
-    prerequisites = {"alien-technology", "optics"},
+    prerequisites = {"advanced-electronics", "alien-technology"},
     effects =
       {
         {
@@ -13,6 +13,10 @@ data:extend({
         {
           type = "unlock-recipe",
           recipe = "dna-collector"
+        },
+        {
+          type = "unlock-recipe",
+          recipe = "dna"
         }
       },
     unit =
