@@ -1,2 +1,4 @@
-0.1.1
+0.0.1
 	extracted dna from blast-mining
+0.0.2
+    changed dna to be a fluid. Be warned, it moves quite slowly through pipes...that may need to be tweaked.
